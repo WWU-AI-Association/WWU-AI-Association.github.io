@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We're adding more content here too!
 
-### More Information
+### Who We Are
+More content here.
 
-A place to include any other types of information that you'd like to include about yourself.
+### What We Do
 
-### Contact me
+More content here.
 
-[email@domain.com](mailto:email@domain.com)
+### Contact Us
+You can contact us here!
+[wwu.aia.club@gmail.com](mailto:wwu.aia.club@gmail.com)
