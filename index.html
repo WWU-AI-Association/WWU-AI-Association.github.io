@@ -1,8 +1,17 @@
 ---
 layout: default
 ---
+<script>
+setTimeout(function(){
+  document.getElementById("thanks").style.visibility = "visible";
+},2000);
+  
+</script>
 
-Welcome to our new website. It is currently in development, so check back soon!
+Welcome to our new website. It is currently in development.
+<div id="thanks">
+Check back soon!
+</div>
 
 <div class="posts">
   {% for post in site.posts %}
